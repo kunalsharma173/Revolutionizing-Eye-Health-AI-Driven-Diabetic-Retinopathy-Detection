@@ -1,7 +1,5 @@
 # 🏥 Revolutionizing-Eye-Health-AI-Driven-Diabetic-Retinopathy-Detection
 
-![Diabetic Retinopathy Banner](https://your-image-link-here.com)  
-
 ## 📌 Project Overview  
 Diabetic Retinopathy (DR) is a **leading cause of blindness** globally, affecting over **191 million people**. **Early detection** is critical for preventing vision loss, but **manual diagnosis is time-consuming and prone to errors**. This project leverages **Deep Learning** to **automate and enhance DR detection** using **CNNs** and **Transfer Learning (InceptionV3)** on **high-resolution retinal images**.  
 
